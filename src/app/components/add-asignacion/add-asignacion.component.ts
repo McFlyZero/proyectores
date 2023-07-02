@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./add-asignacion.component.css']
 })
 export class AddAsignacionComponent {
-
+  
 }
